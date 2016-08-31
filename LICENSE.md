@@ -1,5 +1,3 @@
-vim-giit
-==============================================================================
 The MIT License (MIT)
 
 Copyright (c) 2016 Alisue, hashnote.net
